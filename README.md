@@ -45,7 +45,7 @@ service-monitor/
 └── .gitignore             # Excludes logs/
 ```
 
-##🔧 How Log Rotation Works
+## 🔧 How Log Rotation Works
 
 If logs/service-monitor.log exceeds 1MB, it is renamed with a timestamp (e.g. service-monitor.log.20250520-140305.bak)
 
